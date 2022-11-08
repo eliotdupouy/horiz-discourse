@@ -5,7 +5,7 @@
 
 // General
 .btn {
-  border-radius: 2rem;
+  border-radius: 4px;
 }
 
 p {
@@ -60,7 +60,7 @@ p {
   }
   .btn {
     position: relative;
-    background-color: $tertiary;
+    background-color: #46BCAA;
     color: var(--light-accent);
     .d-icon {
       color: currentColor;
