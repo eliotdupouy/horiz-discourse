@@ -5,13 +5,22 @@
 
 // General
 .btn {
-  border-radius: 4px;
+    border-radius: 4px;
+    background-color: #46BCAA;
+}
+
+.btn:hover {
+    border-radius: 4px;
+    background-color: #2fa190;
 }
 
 .btn-primary {
     border-radius: 4px;
     background-color: #46BCAA;
+}
 
+.btn-primary:hover {
+        background-color: #2fa190;
 }
 
 p {
